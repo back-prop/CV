@@ -1,4 +1,4 @@
-# Table of Contents
+# OpenCV based Computer Vision snippets and notebooks
 
 1. [How to Read and Write and image in OpenCV](https://github.com/back-prop/CV/blob/master/OpenCVBasics/read_write_image.py)
 2. [How to draw standard geometric shapes in OpenCV](https://github.com/back-prop/CV/blob/master/OpenCVBasics/draw_shapes.py)

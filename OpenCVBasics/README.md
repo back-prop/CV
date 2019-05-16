@@ -15,3 +15,5 @@
 12. [Green Screen masking monotone , example from Udacity ISDC](https://github.com/back-prop/CV/blob/master/OpenCVBasics/Green%20Screen%20Car.ipynb)
 13. [Image template matching](https://github.com/back-prop/CV/blob/master/OpenCVBasics/template_matching.py)
 14. [Content Based Image Retrieval, UKBench Dataset](https://github.com/back-prop/CV/blob/master/OpenCVBasics/image_search_engine.ipynb)
+15. [FAST Keypoint Detector](https://github.com/srikanthadya/CV/blob/master/OpenCVBasics/FAST_Keypoint_Detector.ipynb)
+16. [Harris, GFTT, DoG and Fast Hessien Keypoint Detectors](https://github.com/srikanthadya/CV/blob/master/OpenCVBasics/Key_Point_Detectors.ipynb)
